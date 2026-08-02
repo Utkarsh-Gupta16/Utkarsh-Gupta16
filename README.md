@@ -1,16 +1,23 @@
-## Hi there 👋
+```markdown
+<div align="center">
 
-<!--
-**Utkarsh-Gupta16/Utkarsh-Gupta16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Typing Wordmark Header -->
+<img src="./wordmark.svg" width="490" />
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Contribution Heatmap (Pop animation) -->
+<img src="./contrib-heatmap.svg" />
+
+<br><br>
+
+<!-- Portrait & Info Card -->
+<table>
+  <tr>
+    <td valign="top"><img src="./avi-ascii.svg" width="370" /></td>
+    <td valign="top"><img src="./info-card.svg" width="490" /></td>
+  </tr>
+</table>
+
+</div>
+```
